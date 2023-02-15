@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 #  Horario
 
 
-| Hora | Lunes | Martes | Miercoles | Jueves | Viernes |
-|------|-------|--------|-----------|--------|---------|
-| 2pm  | A     | A      | A         | A      | A       |
-| 3pm  | A     | A      | A         | A      | A       |
-| 4pm  | W     | W      | W         | W      | W       |
-| 5pm  | W     | W      | W         | W      | W       |
+| Hora | Lunes       | Martes      | Miercoles   | Jueves      | Viernes     |
+|------|-------------|-------------|-------------|-------------|-------------|
+| 2pm  | Absent      | Absent      | Absent      | Absent      | Absent      |
+| 3pm  | Game        | Game        | Game        | Game        | Game        |
+| 4pm  | Programming | Programming | Programming | Programming | Programming |
+| 5pm  | Programming | Programming | Programming | Programming | Programming |
