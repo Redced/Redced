@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Redced/Redced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+#  Horario
+
+
+| Hora | Lunes | Martes | Miercoles | Jueves | Viernes |
+|------|-------|--------|-----------|--------|---------|
+| 2pm  | F     | F      | F         | F      | F       |
+| 3pm  |       |        |           |        |         |
+| 4pm  |       |        |           |        |         |
+| 5pm  |       |        |           |        |         |
